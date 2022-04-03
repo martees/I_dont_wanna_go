@@ -1,0 +1,1 @@
+TO BARRICADE THE DOOR, you must put at least 3 heavy objects here. Heavy objects are object folders with at least one file inside.
