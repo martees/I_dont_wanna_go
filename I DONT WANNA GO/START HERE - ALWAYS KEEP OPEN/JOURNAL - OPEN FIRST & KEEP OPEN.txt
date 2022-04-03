@@ -12,8 +12,8 @@ I can only open a WHEN or IF file if I meet the conditions, though.
 
 3. I can put files in MY DIMENSIONAL BACKPACK. If I put files in there, I HAVE THEM. If a file says I should HAVE something, it means it should be in my backpack.
 
-4. Play THE HORIZON OF SCHOOL. Every time it gets to the end, grandma gets angrier: add 1 to NANA'S MAD. Then start the song again.
+4. Play Morning mischief.mp3. Every time it gets to the end, grandma gets angrier: add 1 to NANA'S MAD. Then start the song again.
 
-5. If you find other sound files, you get to play them only once, and you must start THE HORIZON OF SCHOOL again afterwards! If they're .mp3.txt, read them, then restart the song instead.
+5. If you find other sound files, you get to play them only once, and you must start Morning mischief.mp3 again afterwards!
 
 NANA'S MAD: 1
