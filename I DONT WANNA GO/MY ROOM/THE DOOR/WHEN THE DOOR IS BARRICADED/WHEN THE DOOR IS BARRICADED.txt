@@ -1,0 +1,11 @@
+You no longer lose when grandma gets very mad, because she can't open the door. She will instead start using her void powers to disapparate your barricade.
+
+Move the other files here into the START HERE folder.
+
+Copy and paste this rule into your journal:
+
+"B - You don't lose the game if you reach NANA'S MAD 7. Instead, every time Morning mischief.mp3 ends, you now delete 1 folder from the barricade, then start the song again. 
+
+If there are not enough folders, nana barges into your room; open WHEN NANA GETS THROUGH.txt."
+
+Then delete this file.

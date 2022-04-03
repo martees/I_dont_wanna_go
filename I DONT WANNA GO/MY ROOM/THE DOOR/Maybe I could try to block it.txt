@@ -1,3 +1,3 @@
 Create a "The barricade" folder here.
 
-TO BARRICADE THE DOOR, you must put at least 3 heavy objects inside.
+To barricade the door, you must put at least 3 heavy objects inside. Folders are heavy objects.
