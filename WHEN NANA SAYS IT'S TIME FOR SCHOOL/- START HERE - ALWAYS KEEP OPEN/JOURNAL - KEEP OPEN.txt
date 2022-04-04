@@ -4,11 +4,13 @@ My name's Alex and I don't wanna go to school!
 
 But nana's decided I should go anyway because I need an education.
 
+The goal of this game is to waste as much time as possible before I have to go to school. To do that, I should look through my room for excuses that I can tell my Nana, so she'll let me stay just a bit longer!
+
 THEM'S THE RULES :
 
-1. If a file starts with "WHEN" and I meet the conditions, I must open it and do what it says. If the file starts with "IF", I can open it, but I don't have to. 
+0. I'm free to open any file or folder I want, UNLESS the name starts with IF or WHEN. This is my room! I can also move the files that have CAPITALIZED names.
 
-I can only open a WHEN or IF file if I meet the conditions, though.
+1. If a file starts with "WHEN" and I meet the conditions, I must open it and do what it says. If the file starts with "IF", I can open it, but I don't have to. Same with folders.
 
 2. IF I DONT KNOW WHAT A FILE NAME MEANS, I SHOULDN'T TOUCH IT!
 
@@ -17,3 +19,23 @@ I can only open a WHEN or IF file if I meet the conditions, though.
 4. Whenever you are ready to start the game, play Morning mischief.mp3. Ensure your music player isn't set on auto repeat, so you notice when the music stops. Every time it gets to the end, grandma gets angrier: add 1 to NANA'S MAD. Then start the song again.
 
 NANA'S MAD: 1
+
+- ACCESSIBILITY FEATURE -
+
+If you're a slow reader or simply wish to play in the promenade mode, you may add this rule to the others:
+
+5. Nana won't force you to go to school even if she would barge into the room. Instead, keep ticking up NANA'S MAD every time the music ends, even past 7. When the game ends, look at this to see how late you are:
+
+- 1-3: You're a bit late for school, but nothing unusual.
+
+- 4-7: You're pretty late! The history test had already started without you.
+
+- 8-11: Damn, you really got there half an hour after the start of the test, huh?
+
+- 12-16: You got there even after the end of the test. You were late for sports! And they even started broom riding! Nooooo!!
+
+- 17-20: You only got there at the end of sports class. Mrs Burnett was kinda pissed and made you sit on a bench and you couldn't ride your broom.
+
+- 21-24: You were so late that you even got there after the start of music class! But you were still allowed to play in front of everyone and it went great.
+
+- 25+: You got to school during lunch and missed the whole morning. Nana wasn't too happy about that! You're grounded, but she'll probably still allow you to go out if you ask nicely and do the laundry spell.
