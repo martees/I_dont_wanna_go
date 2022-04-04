@@ -1,5 +1,7 @@
-ALEX: "I HAFTA WATER MY PLANT BEFORE I COME DOWN!"
+Stop the music. 
 
-NANA: "That's true sweety. I'm glad you're so responsible. Hurry up though, it's getting late!"
+Play the NANA!.mp3 file in this folder.
 
-Stop the music. Replace the Morning mischief.mp3 file in the START HERE folder with the one here, then start it again. You just found a way to stall a bit more!
+Replace the Morning mischief.mp3 file in the START HERE folder with the one here. After the dialogue, start Morning mischief.mp3 again. 
+
+You just found a way to stall a bit more!

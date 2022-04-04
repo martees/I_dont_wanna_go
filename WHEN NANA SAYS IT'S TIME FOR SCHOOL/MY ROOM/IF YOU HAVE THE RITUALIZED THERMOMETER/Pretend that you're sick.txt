@@ -1,5 +1,7 @@
-ALEX: "NANA! I'm sick!! I've got a fever! I can't go to school like that!!"
+Stop the music. 
 
-NANA: "Oh no! I'll pour some healing potion on your pancakes with the syrup, you'll feel better instantly. Come on down!"
+Play the NANA!.mp3 file in this folder.
 
-Stop the music. Replace the Morning mischief.mp3 file in the START HERE folder with the one here, then start it again. You just found a way to stall a bit more!
+Replace the Morning mischief.mp3 file in the START HERE folder with the one here. After the dialogue, start Morning mischief.mp3 again. 
+
+You just found a way to stall a bit more!

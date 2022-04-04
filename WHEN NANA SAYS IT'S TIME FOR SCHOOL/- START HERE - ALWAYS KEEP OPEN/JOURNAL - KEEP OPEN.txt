@@ -16,9 +16,10 @@ THEM'S THE RULES :
 
 3. I can put files in MY DIMENSIONAL BACKPACK. If I put files in there, I HAVE THEM. If a file says I should HAVE something, it means it should be in my backpack.
 
-4. Whenever you are ready to start the game, play Morning mischief.mp3. Ensure your music player isn't set on auto repeat, so you notice when the music stops. Every time it gets to the end, grandma gets angrier: add 1 to NANA'S MAD. Then start the song again.
-
-NANA'S MAD: 1
+4. Whenever you are ready to start the game, play Morning mischief.mp3. Ensure your music player isn't set on auto repeat, so you notice when the music stops. Every time it gets to the end, grandma gets angrier: (Don't worry though, even max angry isn't very angry.)
+- Add 1 to NANA'S MAD = X.txt (a file in this folder.)
+- When NANA'S MAD = X.txt reaches the correct number, open the corresponding file or folder from here.
+- Then start the song again.
 
 - ACCESSIBILITY FEATURE -
 
