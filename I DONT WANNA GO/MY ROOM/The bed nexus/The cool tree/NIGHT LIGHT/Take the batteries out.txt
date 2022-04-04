@@ -1,5 +1,0 @@
-Create BUTTERFLY BATTERIES.txt here.
-
-Delete NIGHT LIGHT (ON).png, and rename WHEN NO BATTERIES.png into NIGHT LIGHT (OFF).png.
-
-Delete this file.

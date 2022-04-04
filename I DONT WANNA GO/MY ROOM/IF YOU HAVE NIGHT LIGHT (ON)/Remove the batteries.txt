@@ -1,0 +1,5 @@
+You remove the batteries from your night light. The butterflies slowly stop and turn to dust inside the lantern.
+
+Delete NIGHT LIGHT (ON).png. Move the other files here into your BACKPACK.
+
+Then delete this file.
