@@ -1,6 +1,6 @@
 You no longer lose when grandma gets very mad, because she can't open the door. She will instead start using her void powers to disapparate your barricade.
 
-Move the other files here into the START HERE folder.
+Move the other file here into the START HERE folder.
 
 Copy and paste this rule into your journal:
 
